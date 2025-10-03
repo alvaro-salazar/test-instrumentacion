@@ -1,0 +1,6 @@
+Objetivo general Ingeniería Electronica
+
+Formar profesionales en Ingeniería Electrónica comprometidos con la región y la sociedad, 
+con las habilidades para la solución de problemas de ingeniería basados en el diseño,
+ desarrollo y uso de sistemas electrónicos para procesar señales,
+ las telecomunicaciones y el control industrial.
